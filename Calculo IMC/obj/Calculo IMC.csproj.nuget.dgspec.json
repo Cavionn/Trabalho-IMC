@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Calculo IMC\\Calculo IMC\\Calculo IMC.csproj": {}
+    "C:\\Users\\MURILOAMORIMGEDOZ\\Desktop\\Trabalho-IMC\\Calculo IMC\\Calculo IMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Calculo IMC\\Calculo IMC\\Calculo IMC.csproj": {
+    "C:\\Users\\MURILOAMORIMGEDOZ\\Desktop\\Trabalho-IMC\\Calculo IMC\\Calculo IMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Calculo IMC\\Calculo IMC\\Calculo IMC.csproj",
+        "projectUniqueName": "C:\\Users\\MURILOAMORIMGEDOZ\\Desktop\\Trabalho-IMC\\Calculo IMC\\Calculo IMC.csproj",
         "projectName": "Calculo IMC",
-        "projectPath": "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Calculo IMC\\Calculo IMC\\Calculo IMC.csproj",
-        "packagesPath": "C:\\Users\\GIORGIOCAVIONTIBURI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Calculo IMC\\Calculo IMC\\obj\\",
+        "projectPath": "C:\\Users\\MURILOAMORIMGEDOZ\\Desktop\\Trabalho-IMC\\Calculo IMC\\Calculo IMC.csproj",
+        "packagesPath": "C:\\Users\\MURILOAMORIMGEDOZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MURILOAMORIMGEDOZ\\Desktop\\Trabalho-IMC\\Calculo IMC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GIORGIOCAVIONTIBURI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MURILOAMORIMGEDOZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
